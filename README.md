@@ -9,7 +9,7 @@ Your Kali-Linux LockScreen WallPaper To Your Desire Image
 - python3 wali-x.py
 
 # Important
-RENAME YOUR DESIRE IMAGE TO [background] SMALLCAPS WITHOUT BRACKETS AND THE FILE TYPE LIKE png AND jpeg
+RENAME YOUR DESIRE IMAGE TO [background] SMALLCAPS WITHOUT BRACKETS AND WITHOUT THE FILE TYPE LIKE png AND jpeg
 And If The Code Gives A Error Then Just Simply Run The Code Again
 
 # Image's
