@@ -1,3 +1,7 @@
+#Github ~ github.com/kunalmannu
+#Made By KunalMannu
+#If You Copy Give Me Credits
+#Thank You
 import os
 
 print("""\033[96m
